@@ -45,11 +45,11 @@ info:
   termsOfService: 'http://swagger.io/terms/'
   contact:
     name: API Support
-    email: apiteam@swagger.io
+    email: apiteam@movingit.nl
     url: https://github.com/Redocly/redoc
   x-logo:
-    url: 'https://redocly.github.io/redoc/petstore-logo.png'
-    altText: Petstore logo
+    url: 'https://www.movingit.eu/wp-content/themes/movingit/img/logo.png'
+    altText: Moving IT Logo
   license:
     name: Apache 2.0
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
